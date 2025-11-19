@@ -302,3 +302,6 @@ Python-izm（<https://www.python-izm.com/basic/>）を参考に以下の問題�
 
 ### お疲れ様！！  
 ### これでPythonは大体使える様になった！！
+
+
+
