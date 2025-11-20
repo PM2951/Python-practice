@@ -26,7 +26,7 @@ Python-izm（<https://www.python-izm.com/basic/>）を参考に以下の問題�
    さらに、先頭3文字抜き出し、表示してください。
 
 3. 文字列 `info = "Species: Arabidopsis thaliana, Gene: AT1G01010"` から  
-   `"Arabidopsis thaliana"` の部分だけを取り出して表示してください。  
+   'Species: Arabidopsis thaliana'と' Gene: AT1G01010'に分割して表示してください。  
    （ヒント`split()` を使う）。
 
 ---
