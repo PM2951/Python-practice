@@ -1,3 +1,4 @@
+戻る（<https://github.com/PM2951/Python-forMAC>)
 # Pythonの練習問題
 
 Python-izm（<https://www.python-izm.com/basic/>）を参考に以下の問題を解いてください。  
