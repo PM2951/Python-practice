@@ -1,6 +1,6 @@
  [戻る](https://github.com/PM2951/Python-forMAC)    
 
-# Pythonの練習問題
+# Pythonの基礎練習問題
 
 Python-izm（<https://www.python-izm.com/basic/>）を参考に以下の問題を解いてください。  
 サイトに載っていない用法もあるため、適宜Google検索して解法を考えてください。
