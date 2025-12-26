@@ -2,7 +2,7 @@
 
 # Pythonの基礎練習問題
 
-Python-izm（<https://www.python-izm.com/basic/>）を参考に以下の問題を解いてください。  
+[Python-izm](https://www.python-izm.com/basic/)や[神田IT](https://kanda-it-school-kensyu.com/python-super-intro-contents/)などのサイトを参考に以下の問題を解いてください。  
 サイトに載っていない用法もあるため、適宜Google検索して解法を考えてください。
 
 解答.ipynbに答えが載っています。別解もあるので、アウトプットが正しければ大丈夫です。
